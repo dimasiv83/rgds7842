@@ -1,0 +1,7 @@
+[Unit]
+Description=ARP Service
+[Service]
+ExecStart=/home/usver/testtt.sh
+RestartSec=60
+[Install]
+WantedBy=multi-user.target
