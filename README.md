@@ -1,3 +1,5 @@
+Place testtt.sh to /home/usver/
+
 Place testtt.service to /etc/systemd/system/ and use :
 
 sudo systemctl daemon-reload
