@@ -1,1 +1,2 @@
-arp -a -i eth0
+aaaa=$(arp -a -i eth0)
+echo $aaaa
