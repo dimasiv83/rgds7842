@@ -1,0 +1,3 @@
+google.com, ya.ru
+example.org
+пример.рф
